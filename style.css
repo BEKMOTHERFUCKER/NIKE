@@ -84,3 +84,8 @@ line-height: 21px;
     color: #FFFFFF;
     font-family: 'RR';
 }
+
+h2 {
+    text-align: center;
+    color: red;
+}
